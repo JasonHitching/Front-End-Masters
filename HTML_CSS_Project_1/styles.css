@@ -41,10 +41,22 @@
     border-right: 3px solid black;
 }
 
-.list-items {
+.list-styling {
     display: flex;
     flex-direction: column;
     align-items: stretch;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+}
+
+.list-items {
+    display: flex;
+    flex: 1;
+    font-family: fantasy;
+    align-items: center;
+    font-size: 25px;
+
 }
 
 .row {
@@ -52,4 +64,24 @@
     align-items: stretch;
     border-left: 3px solid black;
     border-bottom: 3px solid black;
+}
+
+.list-items-politics {
+    background-color: #ffeaa7;
+}
+
+.list-items-tech {
+    background-color: #81ecec;
+}
+
+.list-items-sport {
+    background-color: #55efc4;
+}
+
+.list-items-local {
+    background-color: #74b9ff;
+}
+
+.list-items-opinion {
+    background-color: #a29bfe;
 }
