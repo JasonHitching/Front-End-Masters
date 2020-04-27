@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+.calc {
+    width: 400px;
+    background-color: black;
+}
+
+.screen {
+    color: white;
+    text-align: end;
+    font-family: monospace;
+    font-size: 40px;
+    padding: 0.3em;
+}
+
+.button-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: stretch;
+}
+
+.calc-button {
+    background-color: #d8d9db;
+    color: black;
+    border: none;
+    font-size: 40px;
+    height: 100px;
+    width: 25%;
+    justify-content: space-between;
+}
+
+.calc-button:last-child {
+    background-color: #df974c;
+    color: white;
+}
+
+.triple {
+    width: 75%;
+}
+
+.double {
+    width: 50%;
+}
