@@ -12,13 +12,14 @@
     text-align: end;
     font-family: monospace;
     font-size: 40px;
-    padding: 0.3em;
+    padding: 0.5em;
 }
 
 .button-row {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: stretch;
+    align-content: stretch;
+    justify-content: space-between;
+    margin-bottom: 3px;
 }
 
 .calc-button {
@@ -27,8 +28,8 @@
     border: none;
     font-size: 40px;
     height: 100px;
-    width: 25%;
-    justify-content: space-between;
+    width: 24.5%;
+    cursor: pointer;
 }
 
 .calc-button:last-child {
@@ -36,10 +37,14 @@
     color: white;
 }
 
+.calc-button:hover {
+    background-color: #ebebeb;
+}
+
 .triple {
     width: 75%;
 }
 
 .double {
-    width: 50%;
+    width: 49.7%;
 }
