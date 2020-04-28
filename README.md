@@ -14,7 +14,7 @@ Project coursework from the [Complete Intro to Web Development, v2](https://fron
     </ul>
 [AJAX Data Requests](https://github.com/JasonHitching/Front-End-Masters/tree/master/AJAX-Requests)
     <ul>
-        <li> Small little applications that requests data from a API </li>
+        <li> Small little application that requests data (a image) from a API </li>
         <li> Learnt to make requests using the [fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)</li>
         <li> Utlised the JS [promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) returned as a result of fetch operations. </li>
     </ul>
