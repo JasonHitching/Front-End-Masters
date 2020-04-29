@@ -1,0 +1,1 @@
+{"version":3,"sources":["animation.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA","file":"animation.2a95f036.css","sourceRoot":"..","sourcesContent":[".box {\n  width: 100px;\n  height: 100px;\n  background-color: #0074d9;\n}\n"]}
