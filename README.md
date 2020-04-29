@@ -1,4 +1,4 @@
-# Front-End-Masters
+# Front-End-Masters - Web Development Intro
 Project coursework from the [Complete Intro to Web Development, v2](https://frontendmasters.com/courses/web-development-v2/) course
 
 [HTML & CSS Project 1](https://github.com/JasonHitching/Front-End-Masters/tree/master/HTML_CSS_Project_1)
